@@ -1,7 +1,7 @@
 class Book extends Publication{
     private String author;
 
-    public int getAuthor() {
+    public String getAuthor() {
         return author;
     }
 
