@@ -215,5 +215,5 @@ Now, go ahead and experiment with these concepts in your own projects. ✨ Happy
 
 ---
 
-You can save this content as a `.md` file. It provides a thorough explanation of the **Upper Bound**, **Lower Bound**, and **Wildcards** in generics with practical examples, as well as a list of **Viva Questions** to test your knowledge.
+It provides a thorough explanation of the **Upper Bound**, **Lower Bound**, and **Wildcards** in generics with practical examples, as well as a list of **Viva Questions** to test your knowledge.
 
